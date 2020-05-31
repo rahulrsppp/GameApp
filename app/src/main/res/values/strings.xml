@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">GameApp</string>
+    <string name="dialogTitle">Game Over</string>
+    <string name="your_score_is">Game Over. Your score is: 	 </string>
+</resources>
